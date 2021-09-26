@@ -1,3 +1,5 @@
+// Generates a minesweeper style board using width height and number of bombs. Random song: https://abstract.land/tidal/redirect/73349211
+
 #include <iostream>
 #include <stdio.h>
 #include <stdlib.h>
